@@ -1,6 +1,7 @@
 //  This use strict statement causes the JavaScript interpreter to run in a strict variant.
 'use strict';
 
+debugger;
 // this requires express fo our app
 var express = require('express');
 var parser = require('body-parser');

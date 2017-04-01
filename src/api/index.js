@@ -3,9 +3,11 @@
 
 // include the dependency
 var express = require('express');
+// requiring the todo model
+var Todo = require('../models/todo');
 
 // invoking the TODOs
-var todos = require('../../mock/todos.json');
+//var todos = require('../../mock/todos.json');
 
 // invoking an express router
 var router = express.Router();
