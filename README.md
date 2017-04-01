@@ -63,6 +63,13 @@
 `git clone https://github.com/TinaBryan/FSJS.git`
 #### Then install the dependencies 
 `npm install`
+> With terminal or command prompt open three tabs from the directory where you cloned this file
+> In the first tab run
+`mongod`
+> In the second tab run
+`nodemon`
+> In the browser go to:
+`localhost:3000`
 
 #### This will be updated periodically 
 #### Thank you for your time and feedback!
