@@ -58,16 +58,16 @@
 
 #### To download and run the project
 #### Fork or clone this repo
-#### In Termial or command propt => within the directory you want to save the code run the git command:
+#### Using Termial or command propt => within the directory you want to save the code, run the git command:
 `git clone https://github.com/TinaBryan/FSJS.git`
-#### Then install the dependencies 
+#### Then install the dependencies from the package.json using the command:
 `npm install`
-> With terminal or command prompt open three tabs from the directory where you cloned this file
-> In the first tab run
+> Using terminal or command prompt => open three tabs *from the directory where you cloned this repository*
+> In the first tab run the following command to start mongoDB
 `mongod`
 > In the second tab run
 `nodemon`
-> In the browser go to:
+> In the browser, in the url type the following to see the project:
 `localhost:3000`
 
 #### This will be updated periodically 
