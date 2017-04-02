@@ -39,12 +39,25 @@
 > MEAN.js books from [Packt](https://www.packtpub.com "packtpub")
 > various YouTube videos, Google and collaboration / discussion with my fellow classmates.
 
-#### Kudos to our mentors! <3 <3 <3 and the Code Louisville Leadership!
+#### <3 Kudos to our mentors! <3
 #### [Aaron Johnson](https://github.com/aarontropy "Aaron Johnson")
 #### [Shauvon McGill](github.com/shauvonm "Shauvon McGill")
 ###### ^^^ Mentors in alphabetical order
-
-
+#### <3 and Mega Kudos! to the Code Louisville Leadership!
+#### Rider Rodriguez
+#### Brian Luerman
+#### Robin Smith
+#### Shannon Siders
+####
+> Thank you for the investment you have and continue to make into the lives of your students.
+#### 
+> <3 Special mention for those of whom began this journey of revamping this repo owner's life. <3
+#### 
+>Emily Schweiss
+#### 
+>Becky Steele
+####
+> Because of you, I'm living my dream!
 
 #### Docs for dependencies:
 * [express.js](https://expressjs.com "express")
