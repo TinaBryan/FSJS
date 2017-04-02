@@ -47,8 +47,8 @@
 
 
 #### Docs for dependencies:
-* [express](https://expressjs.com "express")
-* [angular](https://angularjs.org "angular")
+* [express.js](https://expressjs.com "express")
+* [angular.js](https://angularjs.org "angular")
 * [body-parser](https://www.npmjs.com/package/body-parser "body-parser")
 * [method-override](https://www.npmjs.com/package/method-override "method-override")
 * [express-session](https://www.npmjs.com/package/express-session "express-session")
