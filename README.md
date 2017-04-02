@@ -47,7 +47,6 @@
 
 
 #### Docs for dependencies:
-
 * [express](https://expressjs.com "express")
 * [express](https://angularjs.org "angular")
 * [body-parser](https://www.npmjs.com/package/body-parser "body-parser")
