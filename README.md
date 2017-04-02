@@ -51,11 +51,11 @@
 ####
 > Thank you for the investment you have and continue to make into the lives of your students.
 #### 
-> <3 Special mention for those of whom began this journey of revamping this repo owner's life. <3
+<3 Special mention for those of whom began this journey of revamping this repo owner's life. <3
 #### 
->Emily Schweiss
+Emily Schweiss
 #### 
->Becky Steele
+Becky Steele
 ####
 > Because of you, I'm living my dream!
 
